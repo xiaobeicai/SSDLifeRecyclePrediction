@@ -5,11 +5,10 @@
 
 
 """ Random Forest.
-Implement Random Forest algorithm with TensorFlow, and apply it to classify 
-handwritten digit images. This example is using the MNIST database of 
-handwritten digits as training samples (http://yann.lecun.com/exdb/mnist/).
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Implement Random Forest algorithm with TensorFlow, and apply it to predict 
+SSD life Recycle. This example is using the blackblaze data of 
+HDDas training samples（https://www.backblaze.com/b2/hard-drive-test-data.html）.
+Author: Xiaobaicai Yan
 """
 
 from __future__ import print_function
